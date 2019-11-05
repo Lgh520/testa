@@ -1,8 +1,2 @@
 aaaa
-312315165
-qwq
-<<<<<<< HEAD
-szzs
-=======
-qqqqq
->>>>>>> 62b92720820a6b8eefa505d46d024df4275e3fa4
+bbbs
