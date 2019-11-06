@@ -13,7 +13,7 @@ public class test {
         tt.start();
         for (int i=0;i<=49;i++){
             System.out.println("i="+i);
-            if(i==10)
+            if(i==10) tt.join();
         }
     }
 
